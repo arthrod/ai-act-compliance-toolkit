@@ -21,3 +21,4 @@ pytest-cov>=4.1.0
 
 # Documentation
 markdown>=3.4.0
+torch>=2.10.0 # not directly required, pinned by Snyk to avoid a vulnerability
